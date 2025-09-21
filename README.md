@@ -16,3 +16,7 @@ A simple communication system was built using an **LED as a transmitter** and a 
 
 ## Outcome  
 Successfully demonstrated short-distance data transfer through light.  
+
+## Resources
+[Presentation Video](LiFi-Demonstration_video.mp4)
+[Presentation Slides])(Li-Fi-Communication-System Final (1).pptx)
